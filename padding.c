@@ -9,6 +9,7 @@ struct student {
 
 int main(){
 
+    printf("[----- [강수빈]  [2023078011] -----]\n\n");
 
     struct student pst; // 구조체 변수 선언
 

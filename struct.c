@@ -16,6 +16,7 @@ typedef struct {
 
 int main(){
 
+
     printf("[----- [강수빈]  [2023078011] -----]\n\n");
 
     struct student1 st1 = {'A', 100, 'A'}; // student1 구조체 변수 선언 및 초기화
